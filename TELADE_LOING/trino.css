@@ -1,0 +1,45 @@
+.inicial{
+    background-color: aqua;
+    border-radius: 25px;
+     text-align: center;
+     background-color: blueviolet;
+    
+
+}
+.login{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+.esqueci{
+    text-align: center;
+    color: black;
+ padding: 10px;
+}
+.senha , .email{
+border: none;
+padding: 15px;
+border-radius: 25px;
+text-align: center;
+position: 50px;
+background-color: #4B4952;
+
+
+}
+
+.pesquisa{
+    border-radius: 55px;
+ padding: 25px;   
+ background-color: #4B4952;
+
+ 
+ 
+
+}
+h1{
+    color: #4B4952;
+}
+.perfil{
+    height: 75px;
+    width: 75px;
+}
